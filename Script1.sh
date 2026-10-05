@@ -7,3 +7,5 @@ echo "I am using git"
 echo "HEY! I am learning git and github"
 echo "Hi, i am ishika"
 echo "hello,there"
+echo "hello.branch-2"
+
